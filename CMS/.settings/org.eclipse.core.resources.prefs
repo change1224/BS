@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/oracle/cms/controller/AddCustomerServlet.java=UTF-8
+encoding//src/com/oracle/cms/domain/Customer.java=UTF-8
+encoding//src/com/oracle/cms/model/CustomerService.java=UTF-8
+encoding//src/com/oracle/cms/view/HelloWorldServlet.java=UTF-8
+encoding//src/com/oracle/cms/view/ListCustomerServlet.java=UTF-8
